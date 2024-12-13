@@ -1,0 +1,32 @@
+[
+    {
+        "title": "My Book",
+        "author": "Abir",
+        "isbn": 47680,
+        "year": 2000,
+        "price": 200,
+        "quantity": 1,
+        "bookaddedat": "13-12-2024 17:03:49",
+        "book_last_updated_at": "13-12-2024 17:05:05"
+    },
+    {
+        "title": "yourbook",
+        "author": "apon",
+        "isbn": 77276,
+        "year": 1998,
+        "price": 250,
+        "quantity": 1,
+        "bookaddedat": "13-12-2024 17:04:24",
+        "book_last_updated_at": ""
+    },
+    {
+        "title": "gogo",
+        "author": "momo",
+        "isbn": 10116,
+        "year": 56,
+        "price": 69,
+        "quantity": 3,
+        "bookaddedat": "13-12-2024 17:24:26",
+        "book_last_updated_at": ""
+    }
+]
